@@ -134,12 +134,12 @@
 <!--Logo -->
 
     <TextView
-        android:layout_width=""
-        android:layout_height="134dp"
-        android:layout_marginLeft="39dp"
-        android:layout_marginTop="636dp"
+        android:layout_width="@dimen/layout_width_logo"
+        android:layout_height="@dimen/layout_Hight_logo"
+        android:layout_marginLeft="@dimen/marginLeft_logo"
+        android:layout_marginTop="@dimen/marginTop_logo"
         android:gravity="bottom"
-        android:lineSpacingExtra="-8sp"
+        android:lineSpacingExtra="@dimen/lineSpacingExtra_logo"
         android:text="@string/logo"
         android:textAppearance="@style/logo" />
 

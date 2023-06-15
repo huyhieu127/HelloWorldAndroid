@@ -56,5 +56,14 @@
 
     <dimen name="marginBot_img2">47dp</dimen>
 
+<!--    value logo-->
+
+    <dimen name="layout_width_logo">135dp</dimen>
+    <dimen name="layout_Hight_logo">134dp</dimen>
+    <dimen name="marginLeft_logo">39dp</dimen>
+    <dimen name="marginTop_logo">636dp</dimen>
+    <dimen name="lineSpacingExtra_logo">-8dp</dimen>
+
+
 
 </resources>
