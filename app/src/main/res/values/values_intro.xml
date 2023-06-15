@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--values view left-->
+    <!-- values eclip21 -->
+    <dimen name="width_height_elip1">248dp</dimen>
+    <dimen name="marginLeft_elip1">-104dp</dimen>
+    <dimen name="marginTop_elip1">66dp</dimen>
+    <!-- values eclip23 -->
+    <dimen name="width_height_elip23">300dp</dimen>
+    <dimen name="marginLeft_elip23">-130dp</dimen>
+    <dimen name="marginTop_elip23">40dp</dimen>
+    <!-- values eclip24 -->
+    <dimen name="width_height_elip24">352dp</dimen>
+    <dimen name="marginLeft_elip24">-156dp</dimen>
+    <dimen name="marginTop_elip24">14dp</dimen>
+    <!-- values eclip25 -->
+    <dimen name="width_height_elip25">404dp</dimen>
+    <dimen name="marginLeft_elip25">-182dp</dimen>
+    <dimen name="marginTop_elip25">-12dp</dimen>
+    <!-- values eclip26 -->
+    <dimen name="width_height_elip26">456dp</dimen>
+    <dimen name="marginLeft_elip26">-208dp</dimen>
+    <dimen name="marginTop_elip26">-38dp</dimen>
+    <!-- values img left -->
+    <dimen name="WH_img1">200dp</dimen>
+    <dimen name="marginTop_img1">90dp</dimen>
+    <dimen name="marginstar_img1">-39dp</dimen>
+
+<!--    _______________________________________________________________________________________-->
+    <!--    values img right-->
+
+
+    <dimen name="marginRight_elip1">-104dp</dimen>
+    <dimen name="marginbot_elip21">23dp</dimen>
+    <!-- values eclip23 -->
+
+    <dimen name="marginRight_elip23">-120dp</dimen>
+    <dimen name="marginBot_elip23">-3dp</dimen>
+    <!-- values eclip24 -->
+
+    <dimen name="marginRight_elip24">-146dp</dimen>
+    <dimen name="marginBot_elip24">-29dp</dimen>
+    <!-- values eclip25 -->
+
+    <dimen name="marginRight_elip25">-172dp</dimen>
+    <dimen name="marginBot_elip25">-55dp</dimen>
+    <!-- values eclip26 -->
+
+    <dimen name="marginRight_elip26">-198dp</dimen>
+    <dimen name="marginBot_elip26">-81dp</dimen>
+
+<!--    values img right-->
+    <dimen name="width_img_right">200dp</dimen>
+    <dimen name="Heigh_img_leftt">200dp</dimen>
+    <dimen name="marginRight_img2">-42</dimen>
+
+    <dimen name="marginBot_img2">47dp</dimen>
+
+
+</resources>

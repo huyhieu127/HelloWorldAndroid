@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <View
+        android:id="@+id/ellipse_21"
+        android:layout_width="@dimen/width_height_elip1"
+        android:layout_height="@dimen/width_height_elip1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/marginLeft_elip1"
+        android:layout_marginTop="@dimen/marginTop_elip1"
+        android:background="@drawable/elip21" />
+    <View
+        android:id="@+id/ellipse_23"
+        android:layout_width="@dimen/width_height_elip23"
+        android:layout_height="@dimen/width_height_elip23"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/marginLeft_elip23"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/marginTop_elip23"
+        android:background="@drawable/elip23"
+        />
+    <View
+        android:id="@+id/ellipse_24"
+        android:layout_width="@dimen/width_height_elip24"
+        android:layout_height="@dimen/width_height_elip24"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/marginLeft_elip24"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/marginTop_elip24"
+        android:background="@drawable/elip24"
+        />
+    <View
+        android:id="@+id/ellipse_25"
+        android:layout_width="@dimen/width_height_elip25"
+        android:layout_height="@dimen/width_height_elip25"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/marginLeft_elip25"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/marginTop_elip25"
+        android:background="@drawable/elip25"
+        />
+
+    <View
+        android:id="@+id/ellipse_26"
+        android:layout_width="@dimen/width_height_elip26"
+        android:layout_height="@dimen/width_height_elip26"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="-211dp"
+        android:layout_marginTop="-38dp"
+        android:background="@drawable/elip26" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/WH_img1"
+        android:layout_height="@dimen/WH_img1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="@dimen/marginstar_img1"
+        android:layout_marginTop="@dimen/marginTop_img1"
+        app:srcCompat="@drawable/intro1" />
+<!--View img right-->
+<!--    ______________________________________________________-->
+    <View
+        android:id="@+id/elip21_2"
+        android:layout_width="@dimen/width_height_elip1"
+        android:layout_height="@dimen/width_height_elip1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/marginRight_elip1"
+        android:layout_marginBottom="@dimen/marginbot_elip21"
+        android:background="@drawable/elip21"
+        />
+    <View
+        android:id="@+id/elip23_2"
+        android:layout_width="@dimen/width_height_elip23"
+        android:layout_height="@dimen/width_height_elip23"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/marginRight_elip23"
+        android:layout_marginBottom="@dimen/marginBot_elip23"
+        android:background="@drawable/elip23"
+        />
+    <View
+        android:id="@+id/elip24_2"
+        android:layout_width="@dimen/width_height_elip24"
+        android:layout_height="@dimen/width_height_elip24"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/marginRight_elip24"
+        android:layout_marginBottom="@dimen/marginBot_elip24"
+        android:background="@drawable/elip24"
+        />
+
+    <View
+        android:id="@+id/eli5_2"
+        android:layout_width="@dimen/width_height_elip25"
+        android:layout_height="@dimen/width_height_elip25"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/marginRight_elip25"
+        android:layout_marginBottom="@dimen/marginBot_elip25"
+        android:background="@drawable/elip25"
+        />
+
+    <View
+        android:id="@+id/eli6_2"
+        android:layout_width="@dimen/width_height_elip26"
+        android:layout_height="@dimen/width_height_elip26"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="-198dp"
+        android:layout_marginBottom="-78dp"
+        android:background="@drawable/elip26" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="@dimen/width_img_right"
+        android:layout_height="@dimen/Heigh_img_leftt"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+       android:layout_marginBottom="@dimen/marginBot_img2"
+        android:layout_marginRight="@dimen/marginRight_img2"
+
+        app:srcCompat="@drawable/intro2" />
+
+<!--    ____________________________________________________-____-->
+<!--Logo -->
+
+    <TextView
+        android:layout_width=""
+        android:layout_height="134dp"
+        android:layout_marginLeft="39dp"
+        android:layout_marginTop="636dp"
+        android:gravity="bottom"
+        android:lineSpacingExtra="-8sp"
+        android:text="@string/logo"
+        android:textAppearance="@style/logo" />
+
+</RelativeLayout>

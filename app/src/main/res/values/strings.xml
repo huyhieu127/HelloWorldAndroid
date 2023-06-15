@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">HelloWorldAndroid</string>
+    <string name="app_name">Eat Easy</string>
+    <style name="logo">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textColor">#4A4A6A</item>
+    </style>
+
+
+    <string name="logo">Eat\nEasy</string>
+
+
 </resources>
